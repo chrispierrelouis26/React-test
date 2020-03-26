@@ -1,0 +1,35 @@
+header {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 10px;
+    height: 70px;
+    
+}
+
+.wrap {
+    position: relative;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 980px;
+}
+
+.log {
+    display: block;
+    width: 250ps;
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    -webkit-transform: translateY(-50);
+    -moz-transform: translateY(-50);
+    transform: translateY(-50%);
+
+
+}
+
+img {
+    display: block;
+    width: 40%;
+   margin: 0;
+}
